@@ -1886,15 +1886,6 @@ body {
   display: none;
   transition: opacity .3s;
 }
-.cid-rymDyrnvYm .card-wrapper .card-img .mbr-section-btn {
-  position: absolute;
-  transition: opacity .3s;
-  width: 100%;
-  left: 0;
-  top: 50%;
-  height: auto;
-  transform: translateY(-50%);
-}
 .cid-rymDyrnvYm .card-wrapper .card-img img {
   width: 100%;
 }
@@ -1920,14 +1911,8 @@ body {
   display: block !important;
   opacity: 0;
 }
-.cid-rymDyrnvYm .card-img .mbr-section-btn {
-  opacity: 0;
-}
 .cid-rymDyrnvYm .card-img:hover .mbr-overlay {
   opacity: .5;
-}
-.cid-rymDyrnvYm .card-img:hover .mbr-section-btn {
-  opacity: 1;
 }
 .cid-rymwWLrKvO {
   padding-top: 0px;
