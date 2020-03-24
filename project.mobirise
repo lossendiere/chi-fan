@@ -54,8 +54,9 @@
       }
     ],
     "uniqCompNum": 15,
-    "versionPublish": "4.10.7",
-    "screenshot": "screenshot.png"
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png",
+    "modified": "2019-08-06T12:10:11.000Z"
   },
   "pages": {
     "index.html": {
